@@ -1,0 +1,90 @@
+3
+32
+China Pharmaceutical University, Nanjing Institute of Technology,5
+Nanjing Institute of Technology, Nanjing Medical University·Jiangsu University of Economics and Trade,4
+Nanjing Medical University·Jiangsu University of Economics and Trade, Longmian Avenue,6
+Longmian Avenue, Tianyin Avenue,4
+Tianyin Avenue, Zhushan Road,3
+Zhushan Road, Xiaolongwan,4
+Xiaolongwan, Baijiahu,7
+Baijiahu, Shengtai Road,7
+Shengtai Road, Hedingqiao,6
+Hedingqiao, Shuanglong Avenue,6
+Shuanglong Avenue, Nanjing South Railway Station,4
+Nanjing South Railway Station, Huashen Temple,3
+Huashen Temple, Software Avenue,3
+Software Avenue, Tianlong Temple,3
+Tianlong Temple, Andemen,3
+Andemen, Fengtai South Road,3
+Fengtai South Road, Zhonghua Gate,3
+Zhonghua Gate, Sanshan Street,3
+Sanshan Street, Zhangfuyuan,3
+Zhangfuyuan, Xinjiekou,3
+Xinjiekou, Zhujiang Road,3
+Zhujiang Road, Gulou,3
+Gulou, Xuanwumen,3
+Xuanwumen, Xinmofan Malu,3
+Xinmofan Malu, Nanjing Station,3
+Nanjing Station, Hongshan Zoo,3
+Hongshan Zoo, Maigaoqiao,3
+Maigaoqiao, Xiaozhuang,3
+Xiaozhuang, Jixiang'an,3
+Jixiang'an, Yanziji,3
+Yanziji, Badoushan,3
+Badoushan, Baguazhou Bridge South,3
+29
+Yuzui, Tianbao Street,5
+Tianbao Street, Qinglian Street,5
+Qinglian Street, Luotang Road,5
+Luotang Road, Youfangqiao,5
+Youfangqiao, Yurun Avenue,5
+Yurun Avenue, Yuantong,5
+Yuantong, Olympic Sports Center East,5
+Olympic Sports Center East, Xinglong Avenue,5
+Xinglong Avenue, Jiqingmen Avenue,5
+Jiqingmen Avenue, Yunjin Road,5
+Yunjin Road, Mo Chouhu,5
+Mo Chouhu, Hanzhong Gate,5
+Hanzhong Gate, Shanghai Road,5
+Shanghai Road, Xinjiekou,5
+Xinjiekou, Daxinggong,5
+Daxinggong, Xi'an Gate,5
+Xi'an Gate, Minggugong,5
+Minggugong, Muxuyuan,5
+Muxuyuan, Xiamafang,5
+Xiamafang, Xiaolingwei,5
+Xiaolingwei, Zhongling Street,5
+Zhongling Street, Maqun,5
+Maqun, Jinma Road,5
+Jinma Road, Xianhe Gate,5
+Xianhe Gate, Xuezelv,5
+Xuezelv, Yangshan Park,5
+Yangshan Park, Nanjing University Xianlin Campus,5
+Nanjing University Xianlin Campus, Jingtian Road,5
+26
+Mozhou East Road, East China University of Science and Technology Kowloon Lake Campus,5
+East China University of Science and Technology Kowloon Lake Campus, Chengxin Avenue,5
+Chengxin Avenue, Kowloon Lake,5
+Kowloon Lake, Tianyuan West Road,5
+Tianyuan West Road, Shengtai West Road,5
+Shengtai West Road, Hongyun Avenue,5
+Hongyun Avenue, Nanjing South Railway Station,5
+Nanjing South Railway Station, Mingfa Plaza,5
+Mingfa Plaza, Daming Road,5
+Daming Road, Kazimen,5
+Kazimen, Yuhuamen,5
+Yuhuamen, Wudingmen,5
+Wudingmen, Confucius Temple,5
+Confucius Temple, Changfu Street,5
+Changfu Street, Daxinggong,5
+Daxinggong, Fuqiao,5
+Fuqiao, Jimingsi,5
+Jimingsi, Nanjing Forestry University·Xinzhuang,5
+Nanjing Forestry University·Xinzhuang, Nanjing Station,5
+Nanjing Station, Wutang Square,5
+Wutang Square, Shangyuanmen,5
+Shangyuanmen, Liuzhou East Road,5
+Liuzhou East Road, Tianruncheng,5
+Tianruncheng, East China University of Science and Technology Chengxian College,5
+East China University of Science and Technology Chengxian College, Xinghuo Road,5
+Xinghuo Road, Linchang,5
